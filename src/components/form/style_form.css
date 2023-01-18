@@ -1,8 +1,8 @@
 form {
-    width: 100%;
+    width: 100vh;
     max-width: 1280px;
-    margin: 0 auto;
-    padding: 10px;
+    margin-bottom: 20px;
+    padding: 5px;
     background: #40414F;
 
     display: flex;
@@ -31,6 +31,6 @@ button {
 }
 
 form img {
-    width: 30px;
-    height: 30px;
+    width: 20px;
+    height: 20px;
 }
